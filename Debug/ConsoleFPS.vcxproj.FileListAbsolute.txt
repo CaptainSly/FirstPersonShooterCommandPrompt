@@ -1,0 +1,2 @@
+C:\Users\Zachary\source\repos\ConsoleFPS\Debug\ConsoleFPS.exe
+C:\Users\Zachary\source\repos\ConsoleFPS\Debug\ConsoleFPS.pdb

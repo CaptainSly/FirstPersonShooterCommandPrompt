@@ -1,0 +1,8 @@
+﻿  ConsoleFPS.cpp
+C:\Users\Zachary\source\repos\ConsoleFPS\ConsoleFPS.cpp(135,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  1 of 170 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleFPS.vcxproj -> C:\Users\Zachary\source\repos\ConsoleFPS\Release\ConsoleFPS.exe
